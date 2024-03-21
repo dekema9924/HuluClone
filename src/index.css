@@ -516,7 +516,12 @@ hr{
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
-        height: 203px;
+        height: 303px;
+    }
+    footer{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
     }
     .--subheader{
         gap: 10px;
