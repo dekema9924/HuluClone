@@ -4,6 +4,7 @@ import Cover from "./components/Cover"
 import Live from "./components/Live"
 import Footer from "./components/Footer"
 import Sports from "./components/Sports"
+import Login from "./components/Login"
 import cover_img1 from './assets/Images/cover-img/cover-1.jpg'
 import cover_img2 from './assets/Images/cover-img/cover-2.jpg'
 import cover_img3 from './assets/Images/cover-img/cover-3.jpg'

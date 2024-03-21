@@ -1,0 +1,88 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    width: 80vw;
+    height: 600px;
+    background-color: white;
+    padding-top:40px ;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+    z-index: 300;
+    margin: 0 auto;
+    transition: all.7s;
+}
+.--login-header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form p:first-of-type{
+    width: 400px;
+}
+.--inputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    margin: auto;
+}
+form h1{
+   padding-bottom: 30px;
+
+}
+.--close{
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+    cursor: pointer;
+}
+input[type= 'email'],[type='password'],[type = 'submit']{
+    width: 400px;
+    height: 50px;
+}
+input[type= 'email'],[type='password']{
+    padding-left: 20px;
+
+}
+.--free-trial{
+  text-align: center;
+  padding: 40px 0 30px;
+}
+ a{
+    color: blue;
+    text-decoration: none;
+ }
+
+
+
+
+ @media (max-width:710px)  { 
+    form{
+        width: 100%;
+        position: relative;
+        bottom: 200px;
+    }
+    input[type= 'email'],[type='password'],[type = 'submit']{
+        width: 360px;
+        margin: auto;
+    }
+    label{
+        margin-left: 10px;
+    }
+    .--login-header{
+        margin-left: 30px;
+    
+    }
+    form p:first-of-type{
+        width: 380px;
+    }
+    
+ }

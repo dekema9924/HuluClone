@@ -18,6 +18,7 @@ header{
     background: url(../src/assets/Images/header-img/header.jpg);
     height:96vh ;
     margin-bottom: -460px;
+    
 
 }
 
@@ -408,8 +409,6 @@ footer{
     gap: 10px;
     flex-wrap: wrap;
     opacity: .6;
-
-
 }
 .--browse, .--help, .--about-us{
     display: flex;
