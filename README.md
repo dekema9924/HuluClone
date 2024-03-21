@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 # HuluClone
 
 Hulu is one of the most famous streaming services worldwide with a large variety of shows. I decided to re-create the Front page of Hulu.
-I re-created the Hulu landing page UI design using HTML, CSS, and React Framework. I use modern CSS3+ techniques like  Flex, opacity, linear gradients, etc
+I re-created the Hulu landing page UI design using HTML, CSS, and React Framework. I use modern CSS3+ techniques like props, media queries, use states, and react components, etc
 
 <hr>
 
@@ -32,6 +32,6 @@ I re-created the Hulu landing page UI design using HTML, CSS, and React Framewor
 # Link
 
 <hr>
-Kindly Check this Out!!, Hope you enjoy this :)
+Made by yours truly :)
 
 
