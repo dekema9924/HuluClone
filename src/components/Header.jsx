@@ -58,7 +58,7 @@ const Header = ()=>{
                 <a href="#">Sign up for Hulu Only</a>
                 <p>View more plans</p>
                 <div className="--more-plans">
-                    <i class="fa-solid fa-arrow-right --arrow"></i>
+                   <a href="#"><i class="fa-solid fa-arrow-right fa-lg --arrow"></i></a>
                 </div>
             </div>
             
