@@ -23,7 +23,11 @@ I re-created the Hulu landing page UI design using HTML, CSS, and React Framewor
 
 </ul>
 
-# Preview
+# Preview<img width="494" alt="Screenshot 2024-03-21 at 5 32 20 PM" src="https://github.com/dekema9924/HuluClone/assets/143339000/23bdc036-1db2-4647-bf54-1c71a9b5ca84">
+<img width="1440" alt="Screenshot 2024-03-21 at 5 31 43 PM" src="https://github.com/dekema9924/HuluClone/assets/143339000/3defb019-cc99-4f51-8ef1-e57a3e7864d9">
+
+<img width="1440" alt="Screenshot 2024-03-21 at 5 31 43 PM" src="https://github.com/dekema9924/HuluClone/assets/143339000/cf7c3ae8-1e40-4665-abfc-0fcb024450bd">
+
 
 # Link
 
