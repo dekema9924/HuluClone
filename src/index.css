@@ -283,6 +283,7 @@ nav img{
     left: 20px;
     z-index: 30;
     color: var(--white);
+    width: fit-content;
 }
 
 .--display-flex-row-wrap{
@@ -405,7 +406,7 @@ footer{
     align-items: center;
     width: 100%;
     justify-content: center;
-    padding: 30px 0 60px 0;
+    padding: 10px 0 60px 0;
     gap: 10px;
     flex-wrap: wrap;
     opacity: .6;
@@ -511,6 +512,21 @@ hr{
     .--sports-logos{
         gap: 30px;
     }
+    .--browse{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 203px;
+    }
+    .--subheader{
+        gap: 10px;
+    }
+    .--all-plans p{
+        width:380px;
+    }
+ 
+  
+ 
 
  }
 
